@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Report Lost Item</title>
+</head>
+<body>
+
+<h1>Report Lost Item</h1>
+
+<form>
+    <label>Item Name:</label><br>
+    <input type="text"><br><br>
+
+    <label>Lost Location:</label><br>
+    <input type="text"><br><br>
+
+    <label>Lost Date:</label><br>
+    <input type="date"><br><br>
+
+    <label>Description:</label><br>
+    <textarea rows="4" cols="30"></textarea><br><br>
+
+    <button type="submit">Submit</button>
+</form>
+
+</body>
+</html>
